@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component Should render the button with children text 1`] = `
+<button
+  class="cursor-pointer px-4 py-2 bg-[#0071e3] hover:bg-[#0077ED] active:bg-[#006EDB] text-white rounded-3xl"
+  type="button"
+>
+  Click me
+</button>
+`;
